@@ -7,7 +7,13 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on backend development
-- 🌱 I’m currently learning Dart, 💙 Flutter and VueJS
+- 🌱 I’m currently learning Dart, 💙 Flutter, Python, Kotlin, VueJS and React
+
+<div>
+  <a href="https://github.com/cristiano230981">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristiano230981&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiano230981&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <!--
 **cristiano230981/cristiano230981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
