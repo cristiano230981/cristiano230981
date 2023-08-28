@@ -11,16 +11,15 @@
 
 <div>
   <a href="https://github.com/cristiano230981">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristiano230981&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiano230981&layout=compact&langs_count=9&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristiano230981&show_icons=true&theme=dark&include_all_commits=true&count_private=true&include_orgs=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiano230981&layout=compact&langs_count=9&theme=dark"/>
+  </a>
 </div>
 
 <!--
 **cristiano230981/cristiano230981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -31,5 +30,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
